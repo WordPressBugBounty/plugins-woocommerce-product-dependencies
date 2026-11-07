@@ -6,7 +6,7 @@ Requires at least: 6.2
 Tested up to: 6.6
 WC requires at least: 8.2
 WC tested up to: 9.1
-Stable tag: 2.0.1
+Stable tag: 2.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -77,6 +77,9 @@ The plugin allows you to select between 3 different dependency types:
 
 
 == Changelog ==
+
+= 2.0.2 =
+* Fix - Prevent unpublished dependency names from appearing in customer notices.
 
 = 2.0.0 =
 * Tweak - Updated author links.
